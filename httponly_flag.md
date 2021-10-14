@@ -11,7 +11,7 @@
 
 ![](./img/chrome_httponlyflag.png)
 
-<br/><br/>
+<br/>
 
 **Firefox** สามารถเข้าไปตรวจสอบว่าค่า HTTPOnly flag ถูกเปิดใช้งานหรือไม่ โดยการเปิดหน้าต่าง Web Developer Tools ขึ้นมาแล้วไปที่แท็บ Storage ตามด้วยเมนู Cookies เลือกโดเมนที่ต้องการตรวจสอบ
 
@@ -28,13 +28,14 @@
 ```xml
 <httpCookies httpOnlyCookies="true" />
 ```
-<br/><br/>
+<br/>
 
 **PHP** สามารถเข้าไปตั้งค่าได้ใน php.ini ได้ โดยการเพิ่มค่าด้านล่างเข้าไป
 
 ```ini
 session.cookie_httponly = True
 ```
+<br/>
 *****
 
 # อ้างอิง
