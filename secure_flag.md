@@ -9,13 +9,13 @@
 
 ในตารางฝั่งขวามีจะมี column ชื่อ Secure อยู่ ให้ตรวจสอบค่า cookie ที่ต้องการให้เปิดใช้งานว่ามีเครื่องหมายถูกหรือไม่ ถ้ามีอยู่แล้ว แสดงว่ามีการเปิดใช้งานแล้ว
 
-![](https://raw.githubusercontent.com/inmomentz/icl_kb/main/img/chrome_secureflag.png?token=AVVMQJ6UZ4LDCOGCN5E6SITBNBF2S)
+![](./img/chrome_secureflag.png)
 
 **Firefox** สามารถเข้าไปตรวจสอบว่าค่า Secure flag ถูกเปิดใช้งานหรือไม่ โดยการเปิดหน้าต่าง Web Developer Tools ขึ้นมาแล้วไปที่แท็บ Storage ตามด้วยเมนู Cookies เลือกโดเมนที่ต้องการตรวจสอบ
 
 ในตารางฝั่งขวามีจะมี column ชื่อ Secure อยู่ ให้ตรวจสอบค่า cookie ที่ต้องการให้เปิดใช้งานว่ามีเครื่องหมายถูกหรือไม่ ถ้ามีอยู่แล้ว แสดงว่ามีการเปิดใช้งานแล้ว
 
-![](https://raw.githubusercontent.com/inmomentz/icl_kb/main/img/firefox_secureflag.png?token=AVVMQJ3RHC476ERPPU4EEC3BNBF4A)
+![](./img/firefox_secureflag.png)
 
 *****
 
