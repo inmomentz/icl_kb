@@ -53,6 +53,7 @@ RewriteRule "^(.*)"              "https://www.example.org/index.html" [R=301,L,Q
 RewriteRule "^(.*)\.html$"       "index.php?nav=$1 [NC,L,QSA,CO=RewriteRule;03;https://www.example.org;30/;SameSite=None;Secure]
 ```
 <br/>
+
 *****
 
 # อ้างอิง
