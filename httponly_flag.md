@@ -35,7 +35,6 @@
 ```ini
 session.cookie_httponly = True
 ```
-<br/>
 
 *****
 

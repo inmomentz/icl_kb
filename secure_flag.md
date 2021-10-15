@@ -33,7 +33,6 @@
 ```ini
 session.cookie_secure = True
 ```
-<br/>
 
 *****
 
